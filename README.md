@@ -33,3 +33,33 @@ This repository contains a series of TypeScript exercises covering core concepts
 2. Install dependencies:
    ```bash
    npm install
+
+
+
+## 🔍 Task Overview
+### Task 0: Student Interface
+- Implement Student interface
+- Render student data in HTML table
+
+  ### Task 1: Teacher System
+- Create extendable Teacher interface
+- Implement printTeacher function
+- Build StudentClass with interfaces
+
+### Task 2: Advanced Types
+- Director/Teacher class system
+- Employee creation logic
+- String literal types
+
+### Task 3: Ambient Namespaces
+- Type declarations for CRUD operations
+- Interface merging
+
+### Task 4: Subject Namespaces
+- Teacher interface extensions
+- Subject class implementations
+- Declaration merging
+
+### Task 5: Nominal Typing
+- Branded types for credits
+- Type-safe sum operations
